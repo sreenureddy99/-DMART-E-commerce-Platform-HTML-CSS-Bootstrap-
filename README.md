@@ -12,3 +12,5 @@ To develop the Dmart platform for Shopping.
 ![Screenshot (160)](https://github.com/user-attachments/assets/b757916d-979c-4d81-8218-97d6af94efcb)
 ![Screenshot (161)](https://github.com/user-attachments/assets/3325d4f7-a8c7-4356-aa43-64d7700bc76b)
 ![Screenshot (162)](https://github.com/user-attachments/assets/959e73f6-b509-411b-a67b-641d2bd44493)
+## Result
+In conclusion, the result of using HTML, CSS, and Bootstrap for building the DMART e-commerce platform is an attractive, fully responsive, and easy-to-navigate online store, optimized for both desktop and mobile users.
