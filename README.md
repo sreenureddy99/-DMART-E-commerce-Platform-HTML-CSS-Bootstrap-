@@ -7,4 +7,5 @@ The platform features a clean, modern user interface (UI) with a focus on simpli
 ## Features
 To develop the Dmart platform for Shopping.
 ## Output screenshots
+![Screenshot (158)](https://github.com/user-attachments/assets/f437dd17-0b3d-4611-8009-a54c0ce3b509)
 
