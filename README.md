@@ -6,7 +6,7 @@ The DMART E-Commerce Platform is a fully responsive online shopping website deve
 The platform features a clean, modern user interface (UI) with a focus on simplicity and accessibility, allowing users to easily browse through product categories, add items to their shopping cart, and complete their purchase with minimal effort. By incorporating Bootstrap, the development process was streamlined, allowing for reusable components and responsive design that automatically adapts to different screen sizes. The navigation system is designed to be straightforward, helping customers find what they need quickly and efficiently.
 ## Features
 To develop the Dmart platform for Shopping.
-## Output screenshots
+## Output Screenshots
 ![Screenshot (158)](https://github.com/user-attachments/assets/f437dd17-0b3d-4611-8009-a54c0ce3b509)
 ![Screenshot (159)](https://github.com/user-attachments/assets/dfa08dcf-aa9c-4b1e-9ed8-f558eba15a8c)
 ![Screenshot (160)](https://github.com/user-attachments/assets/b757916d-979c-4d81-8218-97d6af94efcb)
